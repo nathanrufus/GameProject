@@ -1,0 +1,15 @@
+/home/nathan/Documents/Freelance/GameProject/GameProject/bin/Debug/net8.0/GameProject
+/home/nathan/Documents/Freelance/GameProject/GameProject/bin/Debug/net8.0/GameProject.deps.json
+/home/nathan/Documents/Freelance/GameProject/GameProject/bin/Debug/net8.0/GameProject.runtimeconfig.json
+/home/nathan/Documents/Freelance/GameProject/GameProject/bin/Debug/net8.0/GameProject.dll
+/home/nathan/Documents/Freelance/GameProject/GameProject/bin/Debug/net8.0/GameProject.pdb
+/home/nathan/Documents/Freelance/GameProject/GameProject/obj/Debug/net8.0/GameProject.GeneratedMSBuildEditorConfig.editorconfig
+/home/nathan/Documents/Freelance/GameProject/GameProject/obj/Debug/net8.0/GameProject.AssemblyInfoInputs.cache
+/home/nathan/Documents/Freelance/GameProject/GameProject/obj/Debug/net8.0/GameProject.AssemblyInfo.cs
+/home/nathan/Documents/Freelance/GameProject/GameProject/obj/Debug/net8.0/GameProject.csproj.CoreCompileInputs.cache
+/home/nathan/Documents/Freelance/GameProject/GameProject/obj/Debug/net8.0/GameProject.sourcelink.json
+/home/nathan/Documents/Freelance/GameProject/GameProject/obj/Debug/net8.0/GameProject.dll
+/home/nathan/Documents/Freelance/GameProject/GameProject/obj/Debug/net8.0/refint/GameProject.dll
+/home/nathan/Documents/Freelance/GameProject/GameProject/obj/Debug/net8.0/GameProject.pdb
+/home/nathan/Documents/Freelance/GameProject/GameProject/obj/Debug/net8.0/GameProject.genruntimeconfig.cache
+/home/nathan/Documents/Freelance/GameProject/GameProject/obj/Debug/net8.0/ref/GameProject.dll
